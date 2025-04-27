@@ -39,14 +39,14 @@ Fun to build, educational, and affordable!
 
 | Component         | Qty | Price (INR) |
 |-------------------|-----|-------------|
-| CR2032 Battery     | 1   | ₹150         |
-| Coin Cell Holder   | 1   | ₹25         |
-| 2.2kΩ Resistors    | 4   | ₹10          |
-| 47kΩ Resistor      | 1   | ₹10          |
-| GL5528 LDR         | 1   | ₹25        |
+| CR2032 Battery     | 1   | ₹100         |
+| Coin Cell Holder   | 1   | ₹50        |
+| 2.2kΩ Resistors    | 4   | ₹33         |
+| 47kΩ Resistor      | 1   | ₹11          |
+| GL5528 LDR         | 1   | ₹98        |
 | 2N3904 Transistor  | 1   | ₹30          |
-| Push Button        | 1   | ₹25          |
-| 5mm Red LEDs       | 2   | ₹15         |
+| Push Button        | 1   | ₹50         |
+| 5mm Red LEDs       | 2   | ₹89         |
 
 ## ⚙️ How It Works
 - Daylight: LDR keeps LEDs OFF.
