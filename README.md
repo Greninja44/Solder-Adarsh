@@ -1,5 +1,8 @@
 # ✈️ Sukhoi Light-Sensitive LED Circuit
-
+name: "Adarsh"
+slack_handle: "@greninja44"
+github_handle: "@Greninja44"
+email:greninja220324@gmail.com
 ## 🚀 Overview
 A stylish Sukhoi-shaped PCB that lights up LEDs in the dark using a GL5528 LDR and 2N3904 transistor, powered by a CR2032 battery.  
 Fun to build, educational, and affordable!
