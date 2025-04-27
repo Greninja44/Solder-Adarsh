@@ -10,6 +10,23 @@ Fun to build, educational, and affordable!
 - Low power & compact design
 - Cool fighter jet PCB!
 
+## Pcb  Preview
+![Screenshot 2025-04-27 121502](https://github.com/user-attachments/assets/cd1c3f0e-8153-43e1-b2ac-c3fcfcf2feb8)
+## Schematic
+![Screenshot 2025-04-27 121509](https://github.com/user-attachments/assets/910a0567-7a35-4cd2-80c5-0008be399544)
+## Front
+
+![Screenshot 2025-04-27 122921](https://github.com/user-attachments/assets/14ae91a5-5afd-48b2-9d8a-ade737fc192f)
+
+
+## Back
+
+
+
+![Screenshot 2025-04-27 122926](https://github.com/user-attachments/assets/35f33a5e-35ef-48c6-a90f-f9fb1a567145)
+
+
+
 ## 🛠️ Components and Cost (India)
 
 | Component         | Qty | Price (INR) |
