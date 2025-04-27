@@ -14,19 +14,24 @@ Fun to build, educational, and affordable!
 - Cool fighter jet PCB!
 
 ## Pcb  Preview
-![Screenshot 2025-04-27 121502](https://github.com/user-attachments/assets/cd1c3f0e-8153-43e1-b2ac-c3fcfcf2feb8)
+![Screenshot 2025-04-27 134056](https://github.com/user-attachments/assets/248c0e61-6064-4dfd-a053-bbe3ce6f205a)
+
 ## Schematic
-![Screenshot 2025-04-27 121509](https://github.com/user-attachments/assets/910a0567-7a35-4cd2-80c5-0008be399544)
+![Screenshot 2025-04-27 133927](https://github.com/user-attachments/assets/03fd8e9a-73d0-4105-9448-1f9df006c4b3)
+
+
 ## Front
 
-![Screenshot 2025-04-27 122921](https://github.com/user-attachments/assets/14ae91a5-5afd-48b2-9d8a-ade737fc192f)
+![Screenshot 2025-04-27 133913](https://github.com/user-attachments/assets/9b1558ee-2b72-4924-afef-c0b0df9fa385)
+
 
 
 ## Back
 
 
+![Screenshot 2025-04-27 133920](https://github.com/user-attachments/assets/1912fa0c-59ea-43f8-a22b-f8532b67160f)
 
-![Screenshot 2025-04-27 122926](https://github.com/user-attachments/assets/35f33a5e-35ef-48c6-a90f-f9fb1a567145)
+
 
 
 
