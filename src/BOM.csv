@@ -1,8 +1,0 @@
-﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"HX_R_002(RED)"	"LED1,LED2"	"LED0603-R-RD_RED"	"2"	"HX_R_002(RED)"	"null"	"LCSC"	"C9900010499"	""
-"2"	"2N3904RM"	"Q1"	"TO-92-3_L4.8-W3.7-P1.27-L"	"1"	"2N3904RM"	"onsemi(安森美)"	"LCSC"	"C3201796"	"0.079"
-"3"	"220Ω"	"R1,R2,R3,R4"	"R0805"	"4"	"CR0805J220RP05Z"	"EVER OHMS(天二科技)"	"LCSC"	"C881343"	"0.003"
-"4"	"47kΩ"	"R5"	"R0603"	"1"	"0603WAJ0473T5E"	"UNI-ROYAL(厚声)"	"LCSC"	"C25600"	"0.001"
-"5"	"GL5528"	"R7"	"RES-TH_L5.1-W4.3-P3.40-D0.5"	"1"	"GL5528"	"森霸"	"LCSC"	"C125627"	"0.04"
-"6"	"CR2032-卧式贴片"	"U1"	"BAT-SMD_CR2032-C9900005595"	"1"	"CR2032-卧式贴片"	"null"	"LCSC"	"C9900005595"	""
-"7"	"SPSTPB-SW4_PB"	"U4"	"KEY-SMD_L6.2-W3.6-LS8.0"	"1"	"SPSTPB-SW4_PB"	"null"	"LCSC"	"C9900005296"	""
